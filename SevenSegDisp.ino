@@ -22,7 +22,6 @@ void setup()
 
 void loop()
 {
-  // Blinking number 3 test
   digitalWrite(FIRST, LOW);
   digitalWrite(SECOND, LOW);
   digitalWrite(THIRD, LOW);
